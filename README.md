@@ -17,11 +17,53 @@ Here are some ideas to get you started:
 -->
 ## About me 
 
-Devang is a zestful customer-focused techno-functional IT Executive, PSM I® certified Scrum Master, PSPO I® certified Professional Scrum Product Owner and certified Data scientist with 17 plus years of extensive experience spanning business process outsourcing, consulting, R&D and delivery of enterprise IT solutions, exploring leadership opportunities across software architecture, AI/ML - Data science and Quantum Computing. 
+Devang is a zestful customer-focused techno-functional IT Executive, PSM I<sup>®</sup> certified Scrum Master, PSPO I<sup>®</sup> certified Professional Scrum Product Owner and certified Data scientist with 17 plus years of extensive experience spanning business process outsourcing, consulting, R&D and delivery of enterprise IT solutions, exploring leadership opportunities across software architecture, AI/ML - Data science and Quantum Computing. 
 
 He specializes in software re-engineering & reverse engineering allowing interoperability with legacy data/applications, provides mentor-ship enabling identification and setup of diverse environments with access to disparate data sources like Progress OpenEdge, InterSystems Caché, Rocket UniVerse, FairCom c-Tree, IBM DB2, IBM Informix, Oracle, Visual FoxPro 9, SAP SQL Anywhere and more.
 
-## Technologies
+## Contact
+
+<a href="https://www.linkedin.com/in/devanggajjar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
+<a href="https://twitter.com/devanggajjar"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+
+## Badges
+
+Here you will find some of the most relevant badges earned, for a complete list, please <a href="https://www.credly.com/users/devanggajjar/badges">click here</a>.
+
+### Project Management
+
+<p float="left">
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/professional-scrum-master-i-psm-i.png" width=140 height=140>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/professional-scrum-product-owner-i-pspo-i.png" width=140 height=140>
+</p>
+
+### Quantum Computing
+
+<p float="left">
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/qiskit-global-summer-school-2022-quantum-excellence.png" width=140 height=140>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-spring-challenge-2022-achievement.png" width=140 height=140>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-challenge-fall-2021-advanced.png" width=140 height=140>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-challenge-africa-2021-achievement.png" width=140 height=140>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-challenge-2021-achievement-advanced.1.png" width=140 height=140>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-challenge-fall-2020-intermediate.png" width=140 height=140>
+</p>
+
+### Data Science
+
+<p float="left">
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/neuro-symbolic-ai-essentials.png" width=140 height=140>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/microsoft-certified-azure-data-scientist-associate.png" width=140 height=140>
+</p>
+
+## Technology & Tools
+
+### Project Management & Communication
+
+![JIRA](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=Confluence&logoColor=white)
+![MicrosoftOutlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)
+![MicrosoftVisio](https://img.shields.io/badge/Microsoft%20Visio-3955A3.svg?style=for-the-badge&logo=Microsoft-Visio&logoColor=white)
+![MicrosoftTeams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -32,16 +74,19 @@ He specializes in software re-engineering & reverse engineering allowing interop
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Progress](https://img.shields.io/badge/Progress-5CE500.svg?style=for-the-badge&logo=Progress&logoColor=white)
+![MicrosoftAccess](https://img.shields.io/badge/Microsoft%20Access-A4373A.svg?style=for-the-badge&logo=Microsoft-Access&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Frameworks
-![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![ApacheKafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 ### Machine Learning
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -53,8 +98,9 @@ He specializes in software re-engineering & reverse engineering allowing interop
 
 ### Cloud
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AmazonAWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![MicrosoftAzure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+![IBMCloud](https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=for-the-badge&logo=IBM-Cloud&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
