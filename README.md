@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ## About me 
 
-Devang is a zestful customer-focused techno-functional IT Executive, PSM I<sup>®</sup> certified Scrum Master, PSPO I<sup>®</sup> certified Professional Scrum Product Owner and certified Data scientist with 17 plus years of extensive experience spanning business process outsourcing, consulting, R&D and delivery of enterprise IT solutions, exploring leadership opportunities across software architecture, AI/ML - Data science and Quantum Computing. 
+Devang is a zestful customer-focused techno-functional IT Executive, PSM I<sup>®</sup> certified Scrum Master, PSPO I<sup>®</sup> certified Professional Scrum Product Owner and certified Data scientist with 17 plus years of extensive experience spanning business process outsourcing, consulting, R&D and delivery of enterprise IT solutions. 
 
 He specializes in software re-engineering & reverse engineering allowing interoperability with legacy data/applications, provides mentor-ship enabling identification and setup of diverse environments with access to disparate data sources like Progress OpenEdge, InterSystems Caché, Rocket UniVerse, FairCom c-Tree, IBM DB2, IBM Informix, Oracle, Visual FoxPro 9, SAP SQL Anywhere and more.
 
