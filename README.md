@@ -23,11 +23,9 @@ ___  ____ _  _ ____ _  _ ____    ____ ____  _  _ ____ ____
 
 ## About Me
 
-With over 19 years building teams, architecting complex data solutions for US Healthcare, and exploring the frontiers of AI and Quantum Computing, I focus on turning technical complexity into strategic advantage. A standard resume only tells you *what* I did. This space is about *how* I operate and the insights I've gathered along the way.
-
 PSM I<sup>®</sup> certified Scrum Master · PSPO I<sup>®</sup> certified Product Owner · Certified Data Scientist
 
-Specialising in software re-engineering & reverse engineering for legacy interoperability — Progress OpenEdge, InterSystems Caché, Rocket UniVerse, FairCom c-Tree, IBM DB2, IBM Informix, Oracle, Visual FoxPro 9, SAP SQL Anywhere and more.
+With over 19 years building teams, architecting complex data solutions for US Healthcare, and exploring the frontiers of AI and Quantum Computing, I focus on turning technical complexity into strategic advantage. Specialising in software re-engineering & ethical reverse engineering for legacy interoperability.
 
 > 🌐 Philosophy, operating principles & career narrative → [devanggajjar.in](https://devanggajjar.in)
 
