@@ -25,7 +25,7 @@ ___  ____ _  _ ____ _  _ ____    ____ ____  _  _ ____ ____
 
 PSM I<sup>®</sup> certified Scrum Master · PSPO I<sup>®</sup> certified Product Owner · Certified Data Scientist
 
-With over 19 years building teams, architecting complex data solutions for US Healthcare, and exploring the frontiers of AI and Quantum Computing, I focus on turning technical complexity into strategic advantage. Specialising in software re-engineering & ethical reverse engineering for legacy interoperability.
+With over 19 years of experience building teams, architecting complex data solutions for US healthcare, and exploring the frontiers of AI and quantum computing, I focus on turning technical complexity into strategic advantage. I specialize in software re-engineering and responsible legacy system analysis to enable interoperability, modernization, and long-term platform resilience.
 
 > 🌐 Philosophy, operating principles & career narrative → [devanggajjar.in](https://devanggajjar.in)
 
