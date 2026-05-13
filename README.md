@@ -21,7 +21,7 @@ ___  ____ _  _ ____ _  _ ____    ____ ____  _  _ ____ ____
 
 ---
 
-## About Me
+## 👤 About Me
 
 PSM I<sup>®</sup> certified Scrum Master · PSPO I<sup>®</sup> certified Product Owner · Certified Data Scientist
 
