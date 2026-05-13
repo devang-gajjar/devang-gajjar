@@ -1,121 +1,183 @@
+<div align="center">
 
-<!--
-### Hi there 👋
+```
+██████╗ ███████╗██╗   ██╗ █████╗ ███╗   ██╗ ██████╗      ██████╗  █████╗      ██╗     ██╗ █████╗ ██████╗
+██╔══██╗██╔════╝██║   ██║██╔══██╗████╗  ██║██╔════╝     ██╔════╝ ██╔══██╗     ██║     ██║██╔══██╗██╔══██╗
+██║  ██║█████╗  ██║   ██║███████║██╔██╗ ██║██║  ███╗    ██║  ███╗███████║     ██║     ██║███████║██████╔╝
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══██║██║╚██╗██║██║   ██║    ██║   ██║██╔══██║██   ██║██   ██║██╔══██║██╔══██╗
+██████╔╝███████╗ ╚████╔╝ ██║  ██║██║ ╚████║╚██████╔╝    ╚██████╔╝██║  ██║╚█████╔╝╚█████╔╝██║  ██║██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝      ╚═════╝ ╚═╝  ╚═╝ ╚════╝  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-**devang-gajjar/devang-gajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## About me 
+**Director, Data Engineering &nbsp;|&nbsp; Techno-Functional Leader &nbsp;|&nbsp; AI/ML · Cloud · Quantum**
 
-Devang is a zestful customer-focused techno-functional IT Executive, PSM I<sup>®</sup> certified Scrum Master, PSPO I<sup>®</sup> certified Professional Scrum Product Owner and certified Data scientist with 17 plus years of extensive experience spanning business process outsourcing, consulting, R&D and delivery of enterprise IT solutions. 
+[![Website](https://img.shields.io/badge/devanggajjar.in-0f172a?style=flat-square&logo=google-chrome&logoColor=0ea5e9)](https://devanggajjar.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=0ea5e9)](https://www.linkedin.com/in/devanggajjar)
+[![Credly](https://img.shields.io/badge/Credly-0f172a?style=flat-square&logo=credly&logoColor=0ea5e9)](https://www.credly.com/users/devanggajjar/badges)
+[![X / Twitter](https://img.shields.io/badge/X-0f172a?style=flat-square&logo=x&logoColor=0ea5e9)](https://twitter.com/devanggajjar)
 
-He specializes in software re-engineering & reverse engineering allowing interoperability with legacy data/applications, provides mentor-ship enabling identification and setup of diverse environments with access to disparate data sources like Progress OpenEdge, InterSystems Caché, Rocket UniVerse, FairCom c-Tree, IBM DB2, IBM Informix, Oracle, Visual FoxPro 9, SAP SQL Anywhere and more.
+</div>
 
-## Contact
+---
 
-<a href="https://www.linkedin.com/in/devanggajjar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
-<a href="https://twitter.com/devanggajjar"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+## About Me
 
-## Badges
+With over 19 years building teams, architecting complex data solutions for US Healthcare, and exploring the frontiers of AI and Quantum Computing, I focus on turning technical complexity into strategic advantage. A standard resume only tells you *what* I did. This space is about *how* I operate and the insights I've gathered along the way.
 
-Here you will find some of the most relevant badges earned, for a complete list, please <a href="https://www.credly.com/users/devanggajjar/badges">click here</a>.
+PSM I<sup>®</sup> certified Scrum Master · PSPO I<sup>®</sup> certified Product Owner · Certified Data Scientist
+
+Specialising in software re-engineering & reverse engineering for legacy interoperability — Progress OpenEdge, InterSystems Caché, Rocket UniVerse, FairCom c-Tree, IBM DB2, IBM Informix, Oracle, Visual FoxPro 9, SAP SQL Anywhere and more.
+
+> 🌐 Philosophy, operating principles & career narrative → [devanggajjar.in](https://devanggajjar.in)
+
+---
+
+## 🏅 Badges
+
+For the complete list visit [credly.com/users/devanggajjar](https://www.credly.com/users/devanggajjar/badges).
 
 ### Project Management
 
-<p float="left">
-<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/professional-scrum-master-i-psm-i.png" width=140 height=140>
-<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/professional-scrum-product-owner-i-pspo-i.png" width=140 height=140>
+<p>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/professional-scrum-master-i-psm-i.png" width=100 height=100>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/professional-scrum-product-owner-i-pspo-i.png" width=100 height=100>
 </p>
 
 ### Quantum Computing
 
-<p float="left">
-<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/qiskit-global-summer-school-2022-quantum-excellence.png" width=140 height=140>
-<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-spring-challenge-2022-achievement.png" width=140 height=140>
-<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-challenge-fall-2021-advanced.png" width=140 height=140>
-<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-challenge-africa-2021-achievement.png" width=140 height=140>
-<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-challenge-2021-achievement-advanced.1.png" width=140 height=140>
-<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-challenge-fall-2020-intermediate.png" width=140 height=140>
+<p>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/qiskit-global-summer-school-2022-quantum-excellence.png" width=100 height=100>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-spring-challenge-2022-achievement.png" width=100 height=100>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-challenge-fall-2021-advanced.png" width=100 height=100>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-challenge-africa-2021-achievement.png" width=100 height=100>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-challenge-2021-achievement-advanced.1.png" width=100 height=100>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/ibm-quantum-challenge-fall-2020-intermediate.png" width=100 height=100>
 </p>
 
 ### Data Science
 
-<p float="left">
-<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/neuro-symbolic-ai-essentials.png" width=140 height=140>
-<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/microsoft-certified-azure-data-scientist-associate.png" width=140 height=140>
+<p>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/neuro-symbolic-ai-essentials.png" width=100 height=100>
+<img src="https://raw.githubusercontent.com/devang-gajjar/devang-gajjar/main/assets/images/microsoft-certified-azure-data-scientist-associate.png" width=100 height=100>
 </p>
 
-## Technology & Tools
+---
 
-### Project Management & Communication
+## 🛠️ Technology & Tools
 
-![JIRA](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=Confluence&logoColor=white)
-![MicrosoftOutlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)
-![MicrosoftVisio](https://img.shields.io/badge/Microsoft%20Visio-3955A3.svg?style=for-the-badge&logo=Microsoft-Visio&logoColor=white)
-![MicrosoftTeams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)
+<table border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td valign="top" width="50%">
 
-### Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Project Management & Communication**
 
-### Databases
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-5CE500.svg?style=for-the-badge&logo=Progress&logoColor=white)
-![MicrosoftAccess](https://img.shields.io/badge/Microsoft%20Access-A4373A.svg?style=for-the-badge&logo=Microsoft-Access&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=flat-square&logo=Confluence&logoColor=white)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=flat-square&logo=Microsoft-Outlook&logoColor=white)
+![Microsoft Visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3.svg?style=flat-square&logo=Microsoft-Visio&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=flat-square&logo=Microsoft-Teams&logoColor=white)
 
-### Frameworks
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![ApacheKafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+</td>
+<td valign="top" width="50%">
 
-### Machine Learning
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+**Machine Learning & AI**
 
-### Cloud
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=flat-square&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)
 
-![AmazonAWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
-![MicrosoftAzure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
-![IBMCloud](https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=for-the-badge&logo=IBM-Cloud&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-### IDE & Editors
+**Programming Languages**
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 
-### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+</td>
+<td valign="top">
+
+**Cloud**
+
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=flat-square&logo=Microsoft-Azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE.svg?style=flat-square&logo=IBM-Cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Databases**
+
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Progress](https://img.shields.io/badge/Progress-5CE500.svg?style=flat-square&logo=Progress&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A.svg?style=flat-square&logo=Microsoft-Access&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td valign="top">
+
+**IDE & Editors**
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat-square&logo=notepad%2b%2b&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Frameworks & Messaging**
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=flat-square&logo=Apache-Kafka&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4.svg?style=flat-square&logo=Qiskit&logoColor=white)
+
+</td>
+<td valign="top">
+
+**Operating Systems**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+*"Turning technical complexity into strategic advantage."*
+
+[![Website](https://img.shields.io/badge/Read%20more%20at-devanggajjar.in-0f172a?style=flat-square&logo=google-chrome&logoColor=0ea5e9)](https://devanggajjar.in)
+
+</div>
